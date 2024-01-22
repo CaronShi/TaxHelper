@@ -1,0 +1,130 @@
+{
+    "Single": {
+        "income_tax_brackets": [
+            {
+                "bracket": 0,
+                "marginal_rate": 0.1
+            },
+            {
+                "bracket": 11000,
+                "marginal_rate": 0.12
+            },
+            {
+                "bracket": 44725,
+                "marginal_rate": 0.22
+            },
+            {
+                "bracket": 95375,
+                "marginal_rate": 0.24
+            },
+            {
+                "bracket": 182100,
+                "marginal_rate": 0.32
+            },
+            {
+                "bracket": 231250,
+                "marginal_rate": 0.35
+            },
+            {
+                "bracket": 578125,
+                "marginal_rate": 0.37
+            }
+        ]
+    },
+    "Married filing jointly": {
+        "income_tax_brackets": [
+            {
+                "bracket": 0,
+                "marginal_rate": 0.1
+            },
+            {
+                "bracket": 22000,
+                "marginal_rate": 0.12
+            },
+            {
+                "bracket": 89450,
+                "marginal_rate": 0.22
+            },
+            {
+                "bracket": 190750,
+                "marginal_rate": 0.24
+            },
+            {
+                "bracket": 364200,
+                "marginal_rate": 0.32
+            },
+            {
+                "bracket": 462500,
+                "marginal_rate": 0.35
+            },
+            {
+                "bracket": 693750,
+                "marginal_rate": 0.37
+            }
+        ]
+    },
+    "Married filing separately": {
+        "income_tax_brackets": [
+            {
+                "bracket": 0,
+                "marginal_rate": 0.1
+            },
+            {
+                "bracket": 11000,
+                "marginal_rate": 0.12
+            },
+            {
+                "bracket": 44725,
+                "marginal_rate": 0.22
+            },
+            {
+                "bracket": 95375,
+                "marginal_rate": 0.24
+            },
+            {
+                "bracket": 182100,
+                "marginal_rate": 0.32
+            },
+            {
+                "bracket": 231250,
+                "marginal_rate": 0.35
+            },
+            {
+                "bracket": 346876,
+                "marginal_rate": 0.37
+            }
+        ]
+    },
+    "Head of household": {
+        "income_tax_brackets": [
+            {
+                "bracket": 0,
+                "marginal_rate": 0.1
+            },
+            {
+                "bracket": 15701,
+                "marginal_rate": 0.12
+            },
+            {
+                "bracket": 59851,
+                "marginal_rate": 0.22
+            },
+            {
+                "bracket": 95351,
+                "marginal_rate": 0.24
+            },
+            {
+                "bracket": 182101,
+                "marginal_rate": 0.32
+            },
+            {
+                "bracket": 231251,
+                "marginal_rate": 0.35
+            },
+            {
+                "bracket": 578101,
+                "marginal_rate": 0.37
+            }
+        ]
+    }
+}
