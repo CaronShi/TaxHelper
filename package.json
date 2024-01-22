@@ -1,7 +1,6 @@
 {
   "name": "tax-helper-app",
   "version": "0.1.0",
-  "homepage": "https://caronshi.github.io/TaxHelper",
   "private": true,
   "scripts": {
     "dev": "next dev",
